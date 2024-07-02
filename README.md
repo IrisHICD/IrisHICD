@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrisHICD
-- 👀 I’m interested in scientific research and learning more about data analysis.
-- 🌱 I’m currently learning R and Python.
-- 💞️ I’m looking to collaborate on scientific dataset.
+- 👀 I’m interested in scientific research and learning more about software engineering.
+- 🌱 I’m currently learning JS, R, and Python.
+- 💞️ I’m looking to collaborate on AI implementation.
 - 📫 You can reach out here or through LinkedIn [https://www.linkedin.com/in/iris-cheang-deis]
 
 <!---
