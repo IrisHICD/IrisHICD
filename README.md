@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iris Cheang-Deis</h1>
 <h3 align="center">Software Developer | Experienced Lead</h3>
 
-- 🔭 I’m currently working on **Local Business Search Engine**
+- 🔭 I’m currently working on **Non-profit Websites and Local Business Search Engine**
 
 - 🌱 I’m currently learning **TypeScript, .NET**
 
-- 💬 Ask me about **REACT, SCSS, mySQL**
+- 💬 Ask me about **Data Analysis, REACT, SCSS, mySQL**
 
 - 📫 How to reach me **irishoincheang@gmail.com**
 
