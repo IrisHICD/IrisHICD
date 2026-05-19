@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iris Cheang-Deis</h1>
 <h3 align="center">Software Developer | Experienced Lead</h3>
 
-- 🔭 I’m currently working on **Non-profit Websites and Local Business Search Engine**
+- 🔭 I’m currently working on **workflow automation and database optimization**
 
-- 🌱 I’m currently learning **TypeScript, .NET**
+- 🌱 I’m currently learning **TypeScript, python**
 
 - 💬 Ask me about **Data Analysis, REACT, SCSS, mySQL**
 
